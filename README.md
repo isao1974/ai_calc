@@ -1,1 +1,1 @@
-勉強用リポジトリ
+勉強用リポジトリ/Users/isao/Documents/GitHub/ai_calc/ai_calc_learn.ipynb
